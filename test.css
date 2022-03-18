@@ -1,0 +1,12 @@
+.h5p-branching-scenario .h5p-start-button, .h5p-end-button, .h5p-back-button, .h5p-nav-button {
+    margin: 3rem 1rem 0rem 1rem;
+    border-style: solid;
+    border-width: 0.125rem;
+    border-color: red;
+    border-radius: 2rem;
+    font-size: 1.25rem;
+    color: red;
+    background: none;
+    cursor: pointer;
+    font-family: H5PRobotoMedium;
+}
